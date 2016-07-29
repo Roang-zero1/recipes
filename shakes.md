@@ -2,12 +2,14 @@
 
 ## Ingredients
 
-- [ ] 200g of soft fruits
-- [ ] 1/2l Milk
-- [ ] 1 small cup of yoghurt
-- [ ] 2 tbsp lemon juice
-- [ ] 3 tbsp powdered sugar
-- [ ] Add ice cubes depending on temperature
+|             | Ingredient |
+|---          | --- |
+|200g         | fruits |
+|1/2l         | Milk |
+|1 small cup  | yoghurt |
+|2 tbsp       | lemon juice |
+|3 tbsp       | powdered sugar |
+|             |ice cubes depending on temperature |
 
 ## Directions
 
