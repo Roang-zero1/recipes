@@ -1,4 +1,4 @@
-# Burger
+# Rinds Burger Patties
 
 | Prop | Value |
 | --- | --- |
