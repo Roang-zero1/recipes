@@ -4,12 +4,12 @@
 
 |             | Ingredient |
 |---          | --- |
-|5            | Eier  |
-|21 dag       | Staubzucker |
-|21 dag       | Butter |
-|8 dag        | glattes Mehl |
-|21 dag       | Mandeln |
-|5 Rippen     | Kochschokolade |
+|6            | Eier  |
+|25 dag       | Staubzucker |
+|25 dag       | Butter |
+|10 dag        | glattes Mehl |
+|25 dag       | Mandeln |
+|6 Rippen     | Kochschokolade |
 |2-4 cl       | Rum |
 |1/2          | Zitrone |
 |1 Sackerl    | Backpulver |
