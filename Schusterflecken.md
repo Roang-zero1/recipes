@@ -21,5 +21,5 @@
 1. Mehl langsam einühren
 1. Geriebene Mandeln und die zerlassene Schokolade einrühren
 1. Zum schluss Schnee dazugeben
-1. Bei mittlerer Hitze 30-45 Minuten backen
+1. Bei mittlerer Hitze 25-45 Minuten backen (Bis Teig nicht mehr an Gabel klebt)
 1. Noch heiß in stücke schneiden
