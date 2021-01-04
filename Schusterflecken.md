@@ -10,7 +10,7 @@
 |8 dag        | glattes Mehl |
 |21 dag       | Mandeln |
 |5 Rippen     | Kochschokolade |
-|1 ?          | Rum |
+|2-4 cl       | Rum |
 |1/2          | Zitrone |
 
 
