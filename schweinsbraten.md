@@ -36,7 +36,7 @@
 2. Am Kochtag:
    1. Ofen auf 180/190° Umluftgrillen vorheizen.
    1. Gewürze vom Fleisch nehmen.
-   1. 1/4 Suppe und den Bratltopf zu einem Saft verarbeiten.
+   1. 1/4L Suppe und den Bratltopf zu einem Saft verarbeiten.
    1. Reihn 1/2 cm mit Saft füllen.
    1. Folgende Reihenfolge beim Braten, Flüssigkeit immer beim Wenden nachfüllen:
       - Bauch:
